@@ -1,7 +1,5 @@
-# Linuxbrew Core
-Core formulae for the Homebrew package manager.
-
-[![Join us on https://discourse.brew.sh](https://img.shields.io/badge/Discourse-forum-blue.svg)](https://discourse.brew.sh)
+# Linuxbrew Core musl
+Core formulae for the Homebrew package manager, adapted to not depend on glibc.
 
 ## How do I install these formulae?
 
